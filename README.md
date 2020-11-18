@@ -14,7 +14,7 @@ Run: `npm run dev`
 The service listens at the 3000 port.
 The following paths are exposed:
 
-`GET /api/car-insurance/car-plate/$license-plate`
+`GET /api/car-insurance/car-plate/$licensePlate`
 
 Responds with an car data object that matches
 the given license plate
